@@ -161,7 +161,7 @@ export const managers = [
       "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Not Actually Dundee", // (optional)
       "bio": "TONY ROMO",
-      "photo": "/managers/scott.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/scott.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
