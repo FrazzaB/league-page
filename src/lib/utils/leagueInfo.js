@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p><h1><center>Welcome!.</center></p></h1>
+  <p><h5><center>Welcome!</center></p></h5>
   <p>As we enter season 9, things are already shaping up nicely. Martin thinks he's destined for glory. Div has expediated the growth of some inevitable cancer. Mark has already decried his own homer Tight End and of course, Scott's Chaos Draft choice of Melvin Gordon in the first round resulted on a comfy bench spot and a loss.</p>
   <p>Where do we go from here? For some, onwards and upwards to the Fantasy Glory Unknown. For most, sheer misery and having starters consistently outscored by apparent bench fodder.</p>
   <p>Let's ride...</p>
