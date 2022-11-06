@@ -190,7 +190,7 @@
     
     <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
-        <p>If any form of trade collusion is suspected, this will be subject to an Ad-hoc vote to determine guilt and punishment.</p>
+        <p>If any form of trade collusion is suspected, this will be subject to an Ad-hoc vote to determine guilt and punishment. This includes the inclusion of non-tradeable assets in any official trade. If guilt is admitted, intentional or otherwise, Ad-Hoc vote will only determine the punishment until a precedent is established.</p>
        
         <p>All trades that are found guilty of collusion, will be reversed/denied. If the trade had affected the outcome of previous games, the results of those games will be revised.  </p>
 
