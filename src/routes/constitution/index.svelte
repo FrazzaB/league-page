@@ -142,6 +142,10 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 League Dues</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Payout</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Raising Dues</h4>
+	
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Other Information</h3>
+    
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>8.1 Google Doc</h4>
     
     
     <hr />
@@ -280,5 +284,14 @@
     
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
     <p>Dues may be increased by the Commissioner due to additional incidental fees incurred.</p>
+	
+	<h2 class="sectionHeading" bind:this={eight}>Section 8 Other Information</h2>
+    
+    <h3 bind:this={eightOne}>8.1 Google Doc</h3>
+    <p>All other league info and rules can be found in the Google Doc, this will change each season and can be obtained via the Commisioner. Current Doc is available <a href="https://docs.google.com/spreadsheets/d/1EkvNfM8z3XsEr6f6IbefKBglepLxxfU9OL99zGsSMKo">Here</a>
+</p>
+    
+	
+
 
 </div>
